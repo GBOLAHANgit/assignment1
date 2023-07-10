@@ -6,13 +6,7 @@
     list-style: none;
 
 }
-body {font-family: 'Times New Roman', Times, serif;
-    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),url("https://images.unsplash.com/photo-1560568267-b6d2c01ece7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60");
-background-repeat: no-repeat;
 
-
-
-}
 p{font-size: xx-large;
 float: right;}
 nav{background-color: rgb(225, 215, 131);
@@ -48,4 +42,16 @@ a.home,a:hover{background-color:rgb(220, 20, 133);
                transition: .5s;
 }
 
+
+
+        
+        
+        
+        
+ 
+}
+section div .logo{width: 60px;
+                  height: 50px;
+
+}
 
